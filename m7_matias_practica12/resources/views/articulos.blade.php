@@ -1,1 +1,1 @@
-{{$text}}
+<a href="<?= route('entrada') ?>">{{$text}}</a>
